@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="TATIANA.OS cyberpunk HUD banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Tatiana cyberpunk HUD banner" width="100%" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>TATIANA.OS / SYSTEM PROFILE</h3>
+      <h3>TATIANA / CREATIVE ENGINEERING PROFILE</h3>
       <p>I design and engineer digital experiences where logic, interface design, immersive systems, security awareness, and visual culture converge.</p>
       <p>My work lives between frontend development, Unity experiences, cybersecurity practice, artificial intelligence exploration, and fashion-driven creative direction.</p>
     </td>
@@ -117,7 +117,7 @@
   <tr>
     <td width="33%"><h3>AI.STUDIO</h3><p>AI workflows for ideation, coding assistance, creative tooling, and intelligent product experiences.</p></td>
     <td width="33%"><h3>FASHION.SYSTEMS</h3><p>Digital fashion concepts connecting styling, visual identity, interface mood, and technology.</p></td>
-    <td width="33%"><h3>TATIANA.OS</h3><p>A living profile repository designed as a futuristic operating system for creative engineering.</p></td>
+    <td width="33%"><h3>TATIANA.DEV</h3><p>A living profile repository designed as a futuristic interface for creative engineering.</p></td>
   </tr>
 </table>
 
