@@ -78,21 +78,21 @@
     <td align="center"><strong>Figma</strong><br />Design Systems</td>
   </tr>
   <tr>
-    <td align="center" colspan="4"><strong>GitHub Actions</strong><br />Automated delivery, profile animation, and daily system refreshes.</td>
+    <td align="center" colspan="4"><strong>GitHub Actions</strong><br />Automated delivery, profile animation, and daily profile refreshes.</td>
   </tr>
 </table>
 
 ## <img src="https://api.iconify.design/lucide:activity.svg?color=%23ff4d9a" width="24" alt="" /> GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tatyjah&show_icons=true&theme=radical&hide_border=true&bg_color=05070B&title_color=FF4D9A&text_color=E5E7EB&icon_color=7C3AED" alt="GitHub stats for tatyjah" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=tatyjah&theme=radical&hide_border=true&background=05070B&ring=FF4D9A&fire=C2185B&currStreakLabel=E5E7EB" alt="GitHub streak for tatyjah" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tatyajh&show_icons=true&theme=radical&hide_border=true&bg_color=05070B&title_color=FF4D9A&text_color=E5E7EB&icon_color=7C3AED" alt="GitHub stats for tatyajh" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=tatyajh&theme=radical&hide_border=true&background=05070B&ring=FF4D9A&fire=C2185B&currStreakLabel=E5E7EB" alt="GitHub streak for tatyajh" />
 </div>
 
 ## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%237c3aed" width="24" alt="" /> Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatyjah&layout=compact&theme=radical&hide_border=true&bg_color=05070B&title_color=FF4D9A&text_color=E5E7EB" alt="Top languages for tatyjah" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatyajh&layout=compact&theme=radical&hide_border=true&bg_color=05070B&title_color=FF4D9A&text_color=E5E7EB" alt="Top languages for tatyajh" />
 </div>
 
 ## <img src="https://api.iconify.design/lucide:target.svg?color=%23ff4d9a" width="24" alt="" /> Current Objectives
@@ -124,16 +124,16 @@
 ## <img src="https://api.iconify.design/lucide:git-branch.svg?color=%237c3aed" width="24" alt="" /> Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tatyjah/tatyjah/output/snake.svg" alt="Contribution snake animation for tatyjah" />
+  <img src="https://raw.githubusercontent.com/tatyajh/tatyajh/output/snake.svg" alt="Contribution snake animation for tatyajh" />
 </div>
 
 ## <img src="https://api.iconify.design/lucide:send.svg?color=%23ff4d9a" width="24" alt="" /> Contact
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://github.com/tatyjah"><strong>GitHub</strong></a><br />System repository and code experiments.</td>
-    <td align="center" width="33%"><a href="https://www.linkedin.com/in/tatyjah"><strong>LinkedIn</strong></a><br />Professional network and project updates.</td>
-    <td align="center" width="33%"><a href="mailto:tatyjah@example.com"><strong>Email</strong></a><br />Open channel for collaboration.</td>
+    <td align="center" width="33%"><a href="https://github.com/tatyajh"><strong>GitHub</strong></a><br />System repository and code experiments.</td>
+    <td align="center" width="33%"><a href="https://www.linkedin.com/in/tatyajh"><strong>LinkedIn</strong></a><br />Professional network and project updates.</td>
+    <td align="center" width="33%"><a href="mailto:tatyajh@example.com"><strong>Email</strong></a><br />Open channel for collaboration.</td>
   </tr>
 </table>
 
