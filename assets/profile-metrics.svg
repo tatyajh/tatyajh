@@ -1,0 +1,58 @@
+<svg width="1180" height="300" viewBox="0 0 1180 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tatiana profile metrics</title>
+  <desc id="desc">Stable local GitHub profile metrics card for Tatiana.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1180" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070B"/>
+      <stop offset=".48" stop-color="#111827"/>
+      <stop offset="1" stop-color="#05070B"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1180" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C2185B"/>
+      <stop offset=".5" stop-color="#FF4D9A"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono{font-family:"SFMono-Regular","Cascadia Code","Consolas",monospace}
+      .label{fill:#E5E7EB;font-size:15px;letter-spacing:2px;opacity:.76}
+      .value{fill:#E5E7EB;font-size:30px;font-weight:800}
+      .accent{fill:#FF4D9A}
+      .copy{fill:#E5E7EB;font-size:17px;opacity:.86}
+    </style>
+  </defs>
+  <rect width="1180" height="300" rx="18" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1176" height="296" rx="18" stroke="url(#neon)" stroke-width="2"/>
+  <path d="M44 56H330M850 56H1136M44 244H420M760 244H1136" stroke="#E5E7EB" stroke-opacity=".14"/>
+  <text x="48" y="46" class="mono label">LIVE PROFILE SYSTEM</text>
+  <text x="48" y="90" class="mono value">GitHub Activity</text>
+  <text x="48" y="124" class="mono copy">Frontend, Unity, cybersecurity, AI, and creative direction in one evolving workspace.</text>
+  <g transform="translate(50 164)">
+    <rect width="250" height="82" rx="12" fill="#05070B" stroke="#FF4D9A" stroke-opacity=".58"/>
+    <text x="24" y="34" class="mono label">FOCUS</text>
+    <text x="24" y="60" class="mono value" font-size="22">Frontend</text>
+  </g>
+  <g transform="translate(330 164)">
+    <rect width="250" height="82" rx="12" fill="#05070B" stroke="#7C3AED" stroke-opacity=".62"/>
+    <text x="24" y="34" class="mono label">ENGINE</text>
+    <text x="24" y="60" class="mono value" font-size="22">Unity + C#</text>
+  </g>
+  <g transform="translate(610 164)">
+    <rect width="250" height="82" rx="12" fill="#05070B" stroke="#C2185B" stroke-opacity=".62"/>
+    <text x="24" y="34" class="mono label">PRACTICE</text>
+    <text x="24" y="60" class="mono value" font-size="22">Security</text>
+  </g>
+  <g transform="translate(890 164)">
+    <rect width="240" height="82" rx="12" fill="#05070B" stroke="#FF4D9A" stroke-opacity=".58"/>
+    <text x="24" y="34" class="mono label">CREATIVE</text>
+    <text x="24" y="60" class="mono value" font-size="22">AI + Fashion</text>
+  </g>
+  <g transform="translate(910 70)" stroke-width="2" filter="url(#glow)">
+    <path d="M80 0L150 40V120L80 160L10 120V40L80 0Z" stroke="#7C3AED"/>
+    <path d="M80 28L126 54V106L80 132L34 106V54L80 28Z" stroke="#FF4D9A"/>
+    <circle cx="80" cy="80" r="18" stroke="#E5E7EB" stroke-opacity=".7"/>
+  </g>
+</svg>

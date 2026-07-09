@@ -1,0 +1,52 @@
+<svg width="1180" height="260" viewBox="0 0 1180 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tatiana language matrix</title>
+  <desc id="desc">Stable local technology and language matrix for Tatiana.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1180" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#05070B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1180" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset=".55" stop-color="#FF4D9A"/>
+      <stop offset="1" stop-color="#C2185B"/>
+    </linearGradient>
+    <style>
+      .mono{font-family:"SFMono-Regular","Cascadia Code","Consolas",monospace}
+      .label{fill:#E5E7EB;font-size:15px;letter-spacing:2px;opacity:.75}
+      .name{fill:#E5E7EB;font-size:24px;font-weight:800}
+      .tag{fill:#FF4D9A;font-size:14px;letter-spacing:2px}
+    </style>
+  </defs>
+  <rect width="1180" height="260" rx="18" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1176" height="256" rx="18" stroke="url(#line)" stroke-width="2"/>
+  <text x="48" y="50" class="mono label">LANGUAGE MATRIX</text>
+  <path d="M48 76H1132" stroke="#E5E7EB" stroke-opacity=".12"/>
+  <g transform="translate(48 104)">
+    <g>
+      <rect width="190" height="92" rx="12" fill="#05070B" stroke="#61DAFB" stroke-opacity=".55"/>
+      <text x="22" y="42" class="mono name">React</text>
+      <text x="22" y="68" class="mono tag">UI SYSTEMS</text>
+    </g>
+    <g transform="translate(218 0)">
+      <rect width="190" height="92" rx="12" fill="#05070B" stroke="#3178C6" stroke-opacity=".65"/>
+      <text x="22" y="42" class="mono name">TypeScript</text>
+      <text x="22" y="68" class="mono tag">TYPED LOGIC</text>
+    </g>
+    <g transform="translate(436 0)">
+      <rect width="190" height="92" rx="12" fill="#05070B" stroke="#FFFFFF" stroke-opacity=".42"/>
+      <text x="22" y="42" class="mono name">Next.js</text>
+      <text x="22" y="68" class="mono tag">WEB RUNTIME</text>
+    </g>
+    <g transform="translate(654 0)">
+      <rect width="190" height="92" rx="12" fill="#05070B" stroke="#7C3AED" stroke-opacity=".72"/>
+      <text x="22" y="42" class="mono name">Unity</text>
+      <text x="22" y="68" class="mono tag">REALTIME 3D</text>
+    </g>
+    <g transform="translate(872 0)">
+      <rect width="210" height="92" rx="12" fill="#05070B" stroke="#FF4D9A" stroke-opacity=".72"/>
+      <text x="22" y="42" class="mono name">Python / C#</text>
+      <text x="22" y="68" class="mono tag">TOOLS + SYSTEMS</text>
+    </g>
+  </g>
+</svg>
