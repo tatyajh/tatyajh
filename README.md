@@ -86,18 +86,12 @@
 
 <div align="center">
   <img src="./assets/profile-metrics.svg" alt="Tatiana profile metrics" width="100%" />
-  <br />
-  <a href="https://github-readme-stats.vercel.app/api?username=tatyajh&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=05070B&amp;title_color=FF4D9A&amp;text_color=E5E7EB&amp;icon_color=7C3AED">Live GitHub stats</a>
-  ·
-  <a href="https://streak-stats.demolab.com?user=tatyajh&amp;theme=radical&amp;hide_border=true&amp;background=05070B&amp;ring=FF4D9A&amp;fire=C2185B&amp;currStreakLabel=E5E7EB">Live streak</a>
 </div>
 
 ## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%237c3aed" width="24" alt="" /> Top Languages
 
 <div align="center">
   <img src="./assets/language-matrix.svg" alt="Tatiana language matrix" width="100%" />
-  <br />
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tatyajh&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=05070B&amp;title_color=FF4D9A&amp;text_color=E5E7EB">Live top languages</a>
 </div>
 
 ## <img src="https://api.iconify.design/lucide:target.svg?color=%23ff4d9a" width="24" alt="" /> Current Objectives
@@ -136,9 +130,8 @@
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://github.com/tatyajh"><strong>GitHub</strong></a><br />System repository and code experiments.</td>
-    <td align="center" width="33%"><a href="https://www.linkedin.com/in/tatyajh"><strong>LinkedIn</strong></a><br />Professional network and project updates.</td>
-    <td align="center" width="33%"><a href="mailto:tatyajh@example.com"><strong>Email</strong></a><br />Open channel for collaboration.</td>
+    <td align="center" width="50%"><a href="https://github.com/tatyajh"><strong>GitHub</strong></a><br />System repository and code experiments.</td>
+    <td align="center" width="50%"><a href="https://www.linkedin.com/in/tarjah"><strong>LinkedIn</strong></a><br />Professional network and project updates.</td>
   </tr>
 </table>
 
